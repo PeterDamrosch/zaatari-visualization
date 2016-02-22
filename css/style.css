@@ -1,0 +1,90 @@
+#header-container {
+    width: 100%;
+    margin-bottom: 40px
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center
+}
+
+#title {
+    width: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 400px
+
+}
+
+#big-container {
+    width: 1200px;
+    height: 500px;
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+.explanation{
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 450px;
+    margin-right: 500px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+#explanation2 {
+    width: 800px;
+    margin-bottom: 200px;
+    margin-left: 350px;
+    margin-right: 400px
+}
+
+#area-div {
+    width: 650px;
+    height: 500px
+}
+
+#bar-div {
+    width: 500px;
+    height: 500px
+}
+
+.area {
+    fill: #6D7B8D
+}
+
+.population-line {
+    stroke: #2C3539;
+    stroke-width: 2
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #2C3539;
+    stroke-width: 2
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px
+}
+
+.chart-title {
+    fill: #2C3539;
+    font-family: sans-serif;
+    font-size: 22px
+}
+
+.bars {
+    fill: #6D7B8D
+}
+
+.labels {
+    font-family: sans-serif;
+    font-size: 11px
+}
