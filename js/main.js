@@ -135,7 +135,7 @@ function createPopulationVisualization (data) {
         .attr("dx", 8)
         .attr("dy", "-1em");
 
-    //Append rectangle to capture mouse
+    //Append rectangle to capture mouse position
     svg.append('rect')
         .attr('width', w)
         .attr('height', h)
